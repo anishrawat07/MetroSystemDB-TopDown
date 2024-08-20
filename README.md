@@ -20,7 +20,7 @@ This file includes:
 
 ## Contributing
 
-This project is the result of a collaborative effort between Anish Rawat (https://github.com/anishrawat07), Jayati Sunil Patel (https://github.com/JayatiPatel) and Phalit Gupta (https://github.com/Phalit045040), with valuable guidance from Prof. Ashok Harnal. 
+This project is the result of a collaborative effort between Himanshi Saxena (https://github.com/045019), Jayati Sunil Patel (https://github.com/JayatiPatel) and Phalit Gupta (https://github.com/Phalit045040), with valuable guidance from Prof. Ashok Harnal. 
 
 ## License
 
